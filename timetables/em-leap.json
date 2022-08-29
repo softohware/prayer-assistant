@@ -1,6 +1,10 @@
 {
     "name": "Euromoslim",
-    "location": "Amsterdam, Osdorp",
+    "location": {
+        "address": "Ekingenstraat 7",
+        "city": "Amsterdam",
+        "country": "Nederland"
+    },
     "creationTime": "2022-07-10T20:58 Z",
     "prayerTimes": {
         "1/1": {
