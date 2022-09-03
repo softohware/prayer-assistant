@@ -1,0 +1,15 @@
+{
+    "lastUpdated": "2022-09-03T20:58 Z",
+    "timetables": [
+        {
+            "name": "Euromoslim",
+            "location": {
+                "address": "Ekingenstraat 7",
+                "city": "Amsterdam",
+                "country": "Nederland"
+            },
+            "creationTime": "2022-07-10T20:58 Z",
+            "url": "https://raw.githubusercontent.com/fulanpiet/softohware/main/timetables/netherlands/euromoslim_leap.json"
+        }
+    ]
+}
