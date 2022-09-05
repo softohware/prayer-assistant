@@ -1,0 +1,35 @@
+{
+    "lastUpdated": "2022-09-03T20:58 Z",
+    "timetables": [
+        {
+            "name": "Euromoslim",
+            "location": {
+                "address": "Ekingenstraat 7",
+                "city": "Amsterdam",
+                "country": "Nederland"
+            },
+            "creationTime": "2022-07-10T20:58 Z",
+            "url": "https://raw.githubusercontent.com/fulanpiet/softohware/main/timetables/netherlands/euromoslim_leap.json"
+        },
+        {
+            "name": "Moskee Ar-Rahman",
+            "location": {
+                "address": "Graan voor Visch 16001",
+                "city": "Hoofddorp",
+                "country": "Nederland"
+            },
+            "creationTime": "2022-09-05T21:19 Z",
+            "url": "https://raw.githubusercontent.com/fulanpiet/softohware/main/timetables/netherlands/moskee_ar_rahman_leap.json"
+        },
+        {
+            "name": "Moskee Ar-Rabitha Al-Islamia",
+            "location": {
+                "address": "Waterschapstraat 1",
+                "city": "Amsterdam",
+                "country": "Nederland"
+            },
+            "creationTime": "2022-09-05T21:19 Z",
+            "url": "https://raw.githubusercontent.com/fulanpiet/softohware/main/timetables/netherlands/moskee_ar_rabitha_al_islamia_leap.json"
+        }
+    ]
+}
