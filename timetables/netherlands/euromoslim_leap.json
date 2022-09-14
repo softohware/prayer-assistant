@@ -3,7 +3,9 @@
     "location": {
         "address": "Ekingenstraat 7",
         "city": "Amsterdam",
-        "country": "Nederland"
+        "country": "Nederland",
+        "latitude": 52.3570438,
+        "longitude": 4.7945968
     },
     "creationTime": "2022-07-10T20:58 Z",
     "prayerTimes": {
