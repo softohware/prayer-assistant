@@ -6,62 +6,62 @@
             "location": {
                 "address": "Ekingenstraat 7",
                 "city": "Amsterdam",
-                "country": "Nederland"
+                "country": "Netherlands"
             },
             "creationTime": "2022-07-10T20:58 Z",
-            "url": "https://raw.githubusercontent.com/fulanpiet/softohware/main/timetables/netherlands/euromoslim_leap.json"
+            "url": "https://raw.githubusercontent.com/softohware/prayer-assistant/main/timetables/netherlands/euromoslim_leap.json"
         },
         {
             "name": "Moskee Ar-Rahman",
             "location": {
                 "address": "Graan voor Visch 16001",
                 "city": "Hoofddorp",
-                "country": "Nederland"
+                "country": "Netherlands"
             },
             "creationTime": "2022-09-09T22:09 Z",
-            "url": "https://raw.githubusercontent.com/fulanpiet/softohware/main/timetables/netherlands/moskee_ar_rahman_leap.json"
+            "url": "https://raw.githubusercontent.com/softohware/prayer-assistant/main/timetables/netherlands/moskee_ar_rahman_leap.json"
         },
         {
             "name": "Moskee Abou Bakr Assadik",
             "location": {
                 "address": "Clemenceaustraat 1",
                 "city": "Almere",
-                "country": "Nederland"
+                "country": "Netherlands"
             },
             "creationTime": "2022-09-09T22:24 Z",
-            "url": "https://raw.githubusercontent.com/fulanpiet/softohware/main/timetables/netherlands/moskee_abou_bakr_assadik_leap.json"
+            "url": "https://raw.githubusercontent.com/softohware/prayer-assistant/main/timetables/netherlands/moskee_abou_bakr_assadik_leap.json"
         },
         {
             "name": "Moskee Abou Bakr",
             "location": {
                 "address": "Snellemanstraat 7",
                 "city": "Rotterdam",
-                "country": "Nederland"
+                "country": "Netherlands"
             },
             "creationTime": "2022-09-09T22:35 Z",
-            "url": "https://raw.githubusercontent.com/fulanpiet/softohware/main/timetables/netherlands/moskee_abou_bakr_rotterdam_leap.json"
+            "url": "https://raw.githubusercontent.com/softohware/prayer-assistant/main/timetables/netherlands/moskee_abou_bakr_rotterdam_leap.json"
         },
         {
             "name": "Moskee Almohsinin",
             "location": {
                 "address": "Spijkerboorpad 8",
                 "city": "Haarlem",
-                "country": "Nederland"
+                "country": "Netherlands"
             },
             "timezone": "Europe/Amsterdam",
             "creationTime": "2022-09-09T22:28 Z",
-            "url": "https://raw.githubusercontent.com/fulanpiet/softohware/main/timetables/netherlands/moskee_almohsinin_leap.json"
+            "url": "https://raw.githubusercontent.com/softohware/prayer-assistant/main/timetables/netherlands/moskee_almohsinin_leap.json"
         },
         {
             "name": "Moskee Imam Malik",
             "location": {
                 "address": "Johan Huizingalaan 48",
                 "city": "Amsterdam",
-                "country": "Nederland"
+                "country": "Netherlands"
             },
             "timezone": "Europe/Amsterdam",
             "creationTime": "2022-09-09T22:18 Z",
-            "url": "https://raw.githubusercontent.com/fulanpiet/softohware/main/timetables/netherlands/moskee_imam_malik_leap.json"
+            "url": "https://raw.githubusercontent.com/softohware/prayer-assistant/main/timetables/netherlands/moskee_imam_malik_leap.json"
         }
     ]
 }
