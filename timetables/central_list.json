@@ -88,6 +88,19 @@
             "timezone": "Europe/Amsterdam",
             "creationTime": "2022-09-16T16:19 Z",
             "url": "https://raw.githubusercontent.com/softohware/prayer-assistant/main/timetables/netherlands/moskee_assoenna_leap.json"
+        },
+        {
+            "name": "Moskee El Mouhsinin",
+            "location": {
+                "address": "Stationsweg 89",
+                "city": "Den Haag",
+                "country": "Netherlands",
+                "latitude": 52.0724991,
+                "longitude": 4.3194691
+            },
+            "timezone": "Europe/Amsterdam",
+            "creationTime": "2022-09-16T21:54 Z",
+            "url": "https://raw.githubusercontent.com/softohware/prayer-assistant/main/timetables/netherlands/moskee_elmouhsinin_leap.json"
         }
     ]
 }
