@@ -8,7 +8,7 @@
         "longitude": 4.8014745
     },
     "timezone": "Europe/Amsterdam",
-    "creationTime": "2022-09-16 16:13:02.682851",
+    "creationTime": "2022-09-16T16:13 Z",
     "prayerTimes": {
         "1/1": {
             "fajr": "05:56",
