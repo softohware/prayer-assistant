@@ -62,6 +62,32 @@
             "timezone": "Europe/Amsterdam",
             "creationTime": "2022-09-09T22:18 Z",
             "url": "https://raw.githubusercontent.com/softohware/prayer-assistant/main/timetables/netherlands/moskee_imam_malik_leap.json"
+        },
+        {
+            "name": "Moskee Sounnat",
+            "location": {
+                "address": "Wezelstraat 19",
+                "city": "Koog aan de Zaan",
+                "country": "Netherlands",
+                "latitude": 52.4698073,
+                "longitude": 4.8014745
+            },
+            "timezone": "Europe/Amsterdam",
+            "creationTime": "2022-09-16T16:13 Z",
+            "url": "https://raw.githubusercontent.com/softohware/prayer-assistant/main/timetables/netherlands/moskee_sounnat_leap.json"
+        },
+        {
+            "name": "Moskee Assoenna",
+            "location": {
+                "address": "Justus van Maurikstraat 2",
+                "city": "Utrecht",
+                "country": "Netherlands",
+                "latitude": 52.0964387,
+                "longitude": 5.0898773
+            },
+            "timezone": "Europe/Amsterdam",
+            "creationTime": "2022-09-16T16:19 Z",
+            "url": "https://raw.githubusercontent.com/softohware/prayer-assistant/main/timetables/netherlands/moskee_assoenna_leap.json"
         }
     ]
 }
