@@ -8,7 +8,7 @@
                 "city": "Amsterdam",
                 "country": "Netherlands"
             },
-            "creationTime": "2025-08-24T21:06 Z",
+            "creationTime": "2025-10-26T20:53 Z",
             "url": "https://raw.githubusercontent.com/softohware/prayer-assistant/main/timetables/netherlands/euromoslim_leap.json"
         },
         {
@@ -18,7 +18,7 @@
                 "city": "Hoofddorp",
                 "country": "Netherlands"
             },
-            "creationTime": "2025-08-24T20:42 Z",
+            "creationTime": "2025-10-26T20:50 Z",
             "url": "https://raw.githubusercontent.com/softohware/prayer-assistant/main/timetables/netherlands/moskee_ar_rahman_leap.json"
         },
         {
@@ -28,7 +28,7 @@
                 "city": "Almere",
                 "country": "Netherlands"
             },
-            "creationTime": "2025-08-24T20:54 Z",
+            "creationTime": "2025-10-26T20:57 Z",
             "url": "https://raw.githubusercontent.com/softohware/prayer-assistant/main/timetables/netherlands/moskee_abou_bakr_assadik_leap.json"
         },
         {
@@ -38,7 +38,7 @@
                 "city": "Rotterdam",
                 "country": "Netherlands"
             },
-            "creationTime": "2025-08-24T20:57 Z",
+            "creationTime": "2025-10-26T20:54 Z",
             "url": "https://raw.githubusercontent.com/softohware/prayer-assistant/main/timetables/netherlands/moskee_abou_bakr_rotterdam_leap.json"
         },
         {
@@ -49,7 +49,7 @@
                 "country": "Netherlands"
             },
             "timezone": "Europe/Amsterdam",
-            "creationTime": "2025-08-24T20:59 Z",
+            "creationTime": "2025-10-26T20:59 Z",
             "url": "https://raw.githubusercontent.com/softohware/prayer-assistant/main/timetables/netherlands/moskee_almohsinin_leap.json"
         },
         {
@@ -60,7 +60,7 @@
                 "country": "Netherlands"
             },
             "timezone": "Europe/Amsterdam",
-            "creationTime": "2025-08-24T21:03 Z",
+            "creationTime": "2025-10-26T21:05 Z",
             "url": "https://raw.githubusercontent.com/softohware/prayer-assistant/main/timetables/netherlands/moskee_imam_malik_leap.json"
         },
         {
@@ -73,7 +73,7 @@
                 "longitude": 4.8014745
             },
             "timezone": "Europe/Amsterdam",
-            "creationTime": "2025-08-24T21:05 Z",
+            "creationTime": "2025-10-26T21:07 Z",
             "url": "https://raw.githubusercontent.com/softohware/prayer-assistant/main/timetables/netherlands/moskee_sounnat_leap.json"
         },
         {
@@ -86,7 +86,7 @@
                 "longitude": 5.0898773
             },
             "timezone": "Europe/Amsterdam",
-            "creationTime": "2025-08-24T21:00 Z",
+            "creationTime": "2025-10-26T21:02 Z",
             "url": "https://raw.githubusercontent.com/softohware/prayer-assistant/main/timetables/netherlands/moskee_assoenna_leap.json"
         },
         {
@@ -99,7 +99,7 @@
                 "longitude": 4.3194691
             },
             "timezone": "Europe/Amsterdam",
-            "creationTime": "2025-08-24T21:02 Z",
+            "creationTime": "2025-10-26T21:04 Z",
             "url": "https://raw.githubusercontent.com/softohware/prayer-assistant/main/timetables/netherlands/moskee_elmouhsinin_leap.json"
         }
     ]
